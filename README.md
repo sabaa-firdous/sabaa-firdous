@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Saba Firdous 
 
-<!--
-**sabaa-firdous/sabaa-firdous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Data Science student | Building AI & LLM applications
+Open to remote opportunities  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills
+Python · SQL · Scikit-learn · LangChain · RAG · Docker · FastAPI
+
+##  Projects
+- [Fraud Detection](link) — XGBoost model, 94% recall
+- [RAG Chatbot](link) — Chat with PDFs using LangChain + OpenAI
+- [LLM Agent](link) — Autonomous research agent
+
+##  Connect
+[LinkedIn](www.linkedin.com/in/sabafirdos) | [Email](sabaa.firdous@gmail.com)
